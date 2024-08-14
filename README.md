@@ -14,13 +14,12 @@ This project aims to develop a book recommendation system using two key approach
 ### Books Dataset
 
 The books dataset contains information on various books, including:
-
-   - ISBN: Unique identifier for the book.
-   - Book-Title: Title of the book.
-    - Book-Author: Author of the book.
-    - Year-Of-Publication: Year the book was published.
-    - Publisher: Publisher of the book.
-    - Image-URL-S, Image-URL-M, Image-URL-L: URLs for the book's images in different sizes.
+-  ISBN: Unique identifier for the book.
+-  Book-Title: Title of the book.
+-  Book-Author: Author of the book.
+-  Year-Of-Publication: Year the book was published.
+-  Publisher: Publisher of the book.
+-  Image-URL-S, Image-URL-M, Image-URL-L: URLs for the book's images in different sizes.
 
 **Users Dataset**
 
