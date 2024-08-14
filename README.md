@@ -25,17 +25,17 @@ The books dataset contains information on various books, including:
 
 The users dataset includes:
 
-    - User-ID: Unique identifier for the user.
-    - Location: User's location (city, state, country).
-    - Age: Age of the user.
+    -  User-ID: Unique identifier for the user.
+    -  Location: User's location (city, state, country).
+    -  Age: Age of the user.
 
 **Ratings Dataset**
 
 The ratings dataset provides:
 
-    - User-ID: Unique identifier for the user.
-    - ISBN: Unique identifier for the book.
-    - Book-Rating: Rating given to the book (range from 0 to 10).
+    -  User-ID: Unique identifier for the user.
+    -  ISBN: Unique identifier for the book.
+    -  Book-Rating: Rating given to the book (range from 0 to 10).
 
 ## Installation and Setup
 
