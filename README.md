@@ -21,18 +21,16 @@ The books dataset contains information on various books, including:
 -  Publisher: Publisher of the book.
 -  Image-URL-S, Image-URL-M, Image-URL-L: URLs for the book's images in different sizes.
 
-**Users Dataset**
+### Users Dataset
 
 The users dataset includes:
-
     -  User-ID: Unique identifier for the user.
     -  Location: User's location (city, state, country).
     -  Age: Age of the user.
 
-**Ratings Dataset**
+### Ratings Dataset
 
 The ratings dataset provides:
-
     -  User-ID: Unique identifier for the user.
     -  ISBN: Unique identifier for the book.
     -  Book-Rating: Rating given to the book (range from 0 to 10).
